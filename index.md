@@ -1,3 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 ## 老年人心率失常预防小常识
 
 ### 勤咨询
