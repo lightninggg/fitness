@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 老年人心率失常预防小常识
 
-You can use the [editor on GitHub](https://github.com/lightninggg/jekyll_demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 勤咨询
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    老年人如果出现了心律失常的症状后，千万不能忽视，应该及时查明原因，按医嘱进行治疗，且不可通过经验来说自己随意选药治疗，或者病情稍有好转就自行停药，应向医生咨询后再做决定。
 
-### Markdown
+### 动适量
+    运动要适量，老年人应该根据自己的情况适度进行体育锻炼，尤其是本身有其他局部导致心律失常的患者而言，一定要注意，并不是说运动量越大对身体越好，应该循序渐进，根据体力来锻炼，千万不可勉强运动或活动过量。一般来说中老年人宜进行散步、打太极拳等较柔和的运动。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### 注体温
+    在日常生活当中应该注意防寒保暖，避免身体突然受到冷或热的刺激，避免身体感冒，洗澡时水温不宜过高、过低，才可避免身体抵抗力下降。
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lightninggg/jekyll_demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 重饮食
+    在饮食上，要注意多吃新鲜水果蔬菜，多出五谷粗粮等天然的食物，少吃油腻的食物，不要暴饮暴食，不能喝酒、抽烟，少喝咖啡、浓茶等饮品。这些因素都可能使交感神经兴奋，而导致心脏传导异常。
+### 避疲劳
+    在平时生活当中还应该注意保持良好的睡眠，同时还应该避免过度劳累。在临床当中长期劳累同样也是诱发心律失常最常见的原因之一。
+    
+　　除了上述的预防措施之外，老年人预防心率失常，也一定要注意保持良好的精神状态，保持积极向上的生活态度，避免长期处于忧虑的状态当中，只有综合全面的调理和治疗，才可以让自己的身体抵抗力提高，让身体远离心理失常的困扰。
